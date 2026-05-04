@@ -1,0 +1,9 @@
+{
+  "name": "Remix: YT Thumbnail Master AI",
+  "description": "Expert AI system for generating viral YouTube thumbnail concepts and image prompts based on facial analysis and title sentiment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "Image analysis",
+    "Creative strategy"
+  ]
+}
